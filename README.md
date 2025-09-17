@@ -1,1 +1,2 @@
-# demo03-JadeRamirez
+# Demo03 - Jade Ramirez
+Author: Jade Ramirez
